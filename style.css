@@ -1,0 +1,47 @@
+body {
+    width: 93%;
+}
+
+h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+/*o pading foi usado para dar o formato */
+.center {
+    font-size: 30px;
+    text-align: center;
+    padding: 0px 130px 0px;
+}
+/* o margin foi usado para dar ao nome mais aproximação do texto de cima.
+o padding distância da linha*/
+footer {
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    padding: 10px 0px 50px 0px;
+    margin: -40px;
+    font-weight: bold;
+}
+
+.line {
+    border: dotted;
+    color: #c8c8c8;
+    border-top: 1px;
+    margin-bottom: 70px;
+    margin-top: 20px;
+}
+.text {
+    margin: -35px;
+    text-indent: 35px;
+}
+
+sup {
+    font-weight: bolder;
+}
+
+p {
+    text-indent: 20px;
+}
